@@ -1,0 +1,71 @@
+C:\Users\maxim\OneDrive\Bureau\Project Timer\ProjectTimer (Test pattern MVC)\IHM\bin\Debug\IHM.exe.config
+C:\Users\maxim\OneDrive\Bureau\Project Timer\ProjectTimer (Test pattern MVC)\IHM\bin\Debug\IHM.exe
+C:\Users\maxim\OneDrive\Bureau\Project Timer\ProjectTimer (Test pattern MVC)\IHM\bin\Debug\IHM.pdb
+C:\Users\maxim\OneDrive\Bureau\Project Timer\ProjectTimer (Test pattern MVC)\IHM\bin\Debug\ProjectTimer.dll
+C:\Users\maxim\OneDrive\Bureau\Project Timer\ProjectTimer (Test pattern MVC)\IHM\bin\Debug\ProjectTimer.pdb
+C:\Users\maxim\OneDrive\Bureau\Project Timer\ProjectTimer (Test pattern MVC)\IHM\obj\Debug\MainWindow.g.cs
+C:\Users\maxim\OneDrive\Bureau\Project Timer\ProjectTimer (Test pattern MVC)\IHM\obj\Debug\App.g.cs
+C:\Users\maxim\OneDrive\Bureau\Project Timer\ProjectTimer (Test pattern MVC)\IHM\obj\Debug\IHM_MarkupCompile.cache
+C:\Users\maxim\OneDrive\Bureau\Project Timer\ProjectTimer (Test pattern MVC)\IHM\obj\Debug\IHM_MarkupCompile.lref
+C:\Users\maxim\OneDrive\Bureau\Project Timer\ProjectTimer (Test pattern MVC)\IHM\obj\Debug\MainWindow.baml
+C:\Users\maxim\OneDrive\Bureau\Project Timer\ProjectTimer (Test pattern MVC)\IHM\obj\Debug\IHM.g.resources
+C:\Users\maxim\OneDrive\Bureau\Project Timer\ProjectTimer (Test pattern MVC)\IHM\obj\Debug\IHM.Properties.Resources.resources
+C:\Users\maxim\OneDrive\Bureau\Project Timer\ProjectTimer (Test pattern MVC)\IHM\obj\Debug\IHM.csproj.GenerateResource.Cache
+C:\Users\maxim\OneDrive\Bureau\Project Timer\ProjectTimer (Test pattern MVC)\IHM\obj\Debug\IHM.csproj.CoreCompileInputs.cache
+C:\Users\maxim\OneDrive\Bureau\Project Timer\ProjectTimer (Test pattern MVC)\IHM\obj\Debug\IHM.exe
+C:\Users\maxim\OneDrive\Bureau\Project Timer\ProjectTimer (Test pattern MVC)\IHM\obj\Debug\IHM.pdb
+C:\Users\maxim\OneDrive\Bureau\Project Timer\ProjectTimer (Test pattern MVC)\IHM\obj\Debug\IHM.csprojResolveAssemblyReference.cache
+C:\Users\maxim\OneDrive\Bureau\Project Timer\ProjectTimer (Test pattern MVC)\IHM\obj\Debug\VueAjouter.g.cs
+C:\Users\maxim\OneDrive\Bureau\Project Timer\ProjectTimer (Test pattern MVC)\IHM\obj\Debug\VueAjouter.baml
+C:\Users\maxim\OneDrive\Bureau\Project Timer\ProjectTimer (Test pattern MVC)\IHM\obj\Debug\VueSupprimer.g.cs
+C:\Users\maxim\OneDrive\Bureau\Project Timer\ProjectTimer (Test pattern MVC)\IHM\obj\Debug\VueSupprimer.baml
+C:\Users\maxim\OneDrive\Bureau\Project Timer\ProjectTimer\IHM\bin\Debug\IHM.exe.config
+C:\Users\maxim\OneDrive\Bureau\Project Timer\ProjectTimer\IHM\bin\Debug\IHM.exe
+C:\Users\maxim\OneDrive\Bureau\Project Timer\ProjectTimer\IHM\bin\Debug\IHM.pdb
+C:\Users\maxim\OneDrive\Bureau\Project Timer\ProjectTimer\IHM\obj\Debug\IHM.csprojResolveAssemblyReference.cache
+C:\Users\maxim\OneDrive\Bureau\Project Timer\ProjectTimer\IHM\obj\Debug\MainWindow.g.cs
+C:\Users\maxim\OneDrive\Bureau\Project Timer\ProjectTimer\IHM\obj\Debug\VueAjouter.g.cs
+C:\Users\maxim\OneDrive\Bureau\Project Timer\ProjectTimer\IHM\obj\Debug\VueChrono.g.cs
+C:\Users\maxim\OneDrive\Bureau\Project Timer\ProjectTimer\IHM\obj\Debug\VueModifier.g.cs
+C:\Users\maxim\OneDrive\Bureau\Project Timer\ProjectTimer\IHM\obj\Debug\VueSupprimer.g.cs
+C:\Users\maxim\OneDrive\Bureau\Project Timer\ProjectTimer\IHM\obj\Debug\App.g.cs
+C:\Users\maxim\OneDrive\Bureau\Project Timer\ProjectTimer\IHM\obj\Debug\IHM_MarkupCompile.cache
+C:\Users\maxim\OneDrive\Bureau\Project Timer\ProjectTimer\IHM\obj\Debug\IHM_MarkupCompile.lref
+C:\Users\maxim\OneDrive\Bureau\Project Timer\ProjectTimer\IHM\obj\Debug\MainWindow.baml
+C:\Users\maxim\OneDrive\Bureau\Project Timer\ProjectTimer\IHM\obj\Debug\VueAjouter.baml
+C:\Users\maxim\OneDrive\Bureau\Project Timer\ProjectTimer\IHM\obj\Debug\VueChrono.baml
+C:\Users\maxim\OneDrive\Bureau\Project Timer\ProjectTimer\IHM\obj\Debug\VueModifier.baml
+C:\Users\maxim\OneDrive\Bureau\Project Timer\ProjectTimer\IHM\obj\Debug\VueSupprimer.baml
+C:\Users\maxim\OneDrive\Bureau\Project Timer\ProjectTimer\IHM\obj\Debug\IHM.g.resources
+C:\Users\maxim\OneDrive\Bureau\Project Timer\ProjectTimer\IHM\obj\Debug\IHM.Properties.Resources.resources
+C:\Users\maxim\OneDrive\Bureau\Project Timer\ProjectTimer\IHM\obj\Debug\IHM.csproj.GenerateResource.Cache
+C:\Users\maxim\OneDrive\Bureau\Project Timer\ProjectTimer\IHM\obj\Debug\IHM.csproj.CoreCompileInputs.cache
+C:\Users\maxim\OneDrive\Bureau\Project Timer\ProjectTimer\IHM\obj\Debug\IHM.exe
+C:\Users\maxim\OneDrive\Bureau\Project Timer\ProjectTimer\IHM\obj\Debug\IHM.pdb
+C:\Users\maxim\OneDrive\Bureau\Project Timer\ProjectTimer\IHM\bin\Debug\Métier.dll
+C:\Users\maxim\OneDrive\Bureau\Project Timer\ProjectTimer\IHM\bin\Debug\Métier.pdb
+C:\Users\maxim\OneDrive\Bureau\Project Timer\ProjectTimer (Test installateur)\IHM\bin\Debug\IHM.exe.config
+C:\Users\maxim\OneDrive\Bureau\Project Timer\ProjectTimer (Test installateur)\IHM\bin\Debug\IHM.exe
+C:\Users\maxim\OneDrive\Bureau\Project Timer\ProjectTimer (Test installateur)\IHM\bin\Debug\IHM.pdb
+C:\Users\maxim\OneDrive\Bureau\Project Timer\ProjectTimer (Test installateur)\IHM\bin\Debug\Métier.dll
+C:\Users\maxim\OneDrive\Bureau\Project Timer\ProjectTimer (Test installateur)\IHM\bin\Debug\Métier.pdb
+C:\Users\maxim\OneDrive\Bureau\Project Timer\ProjectTimer (Test installateur)\IHM\obj\Debug\IHM.csprojResolveAssemblyReference.cache
+C:\Users\maxim\OneDrive\Bureau\Project Timer\ProjectTimer (Test installateur)\IHM\obj\Debug\MainWindow.g.cs
+C:\Users\maxim\OneDrive\Bureau\Project Timer\ProjectTimer (Test installateur)\IHM\obj\Debug\VueAjouter.g.cs
+C:\Users\maxim\OneDrive\Bureau\Project Timer\ProjectTimer (Test installateur)\IHM\obj\Debug\VueChrono.g.cs
+C:\Users\maxim\OneDrive\Bureau\Project Timer\ProjectTimer (Test installateur)\IHM\obj\Debug\VueModifier.g.cs
+C:\Users\maxim\OneDrive\Bureau\Project Timer\ProjectTimer (Test installateur)\IHM\obj\Debug\VueSupprimer.g.cs
+C:\Users\maxim\OneDrive\Bureau\Project Timer\ProjectTimer (Test installateur)\IHM\obj\Debug\App.g.cs
+C:\Users\maxim\OneDrive\Bureau\Project Timer\ProjectTimer (Test installateur)\IHM\obj\Debug\IHM_MarkupCompile.cache
+C:\Users\maxim\OneDrive\Bureau\Project Timer\ProjectTimer (Test installateur)\IHM\obj\Debug\IHM_MarkupCompile.lref
+C:\Users\maxim\OneDrive\Bureau\Project Timer\ProjectTimer (Test installateur)\IHM\obj\Debug\MainWindow.baml
+C:\Users\maxim\OneDrive\Bureau\Project Timer\ProjectTimer (Test installateur)\IHM\obj\Debug\VueAjouter.baml
+C:\Users\maxim\OneDrive\Bureau\Project Timer\ProjectTimer (Test installateur)\IHM\obj\Debug\VueChrono.baml
+C:\Users\maxim\OneDrive\Bureau\Project Timer\ProjectTimer (Test installateur)\IHM\obj\Debug\VueModifier.baml
+C:\Users\maxim\OneDrive\Bureau\Project Timer\ProjectTimer (Test installateur)\IHM\obj\Debug\VueSupprimer.baml
+C:\Users\maxim\OneDrive\Bureau\Project Timer\ProjectTimer (Test installateur)\IHM\obj\Debug\IHM.g.resources
+C:\Users\maxim\OneDrive\Bureau\Project Timer\ProjectTimer (Test installateur)\IHM\obj\Debug\IHM.Properties.Resources.resources
+C:\Users\maxim\OneDrive\Bureau\Project Timer\ProjectTimer (Test installateur)\IHM\obj\Debug\IHM.csproj.GenerateResource.Cache
+C:\Users\maxim\OneDrive\Bureau\Project Timer\ProjectTimer (Test installateur)\IHM\obj\Debug\IHM.csproj.CoreCompileInputs.cache
+C:\Users\maxim\OneDrive\Bureau\Project Timer\ProjectTimer (Test installateur)\IHM\obj\Debug\IHM.exe
+C:\Users\maxim\OneDrive\Bureau\Project Timer\ProjectTimer (Test installateur)\IHM\obj\Debug\IHM.pdb

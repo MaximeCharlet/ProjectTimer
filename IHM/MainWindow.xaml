@@ -1,0 +1,31 @@
+﻿<Window x:Class="IHM.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:IHM"
+        mc:Ignorable="d"
+        Title="Project Timer" Height="386.713" Width="867.657" Closing="OnClosing">
+    <Viewbox Stretch="Uniform">
+        <Grid Height="356" Width="860">
+            <Label x:Name="labelProjet" Content="Projet" HorizontalAlignment="Left" Margin="154,18,0,0" VerticalAlignment="Top"/>
+            <Label x:Name="labelDateDebut" Content="Date de début" HorizontalAlignment="Left" Margin="418,18,0,0" VerticalAlignment="Top"/>
+            <Label x:Name="labelDateFin" Content="Date de fin" HorizontalAlignment="Left" Margin="548,18,0,0" VerticalAlignment="Top"/>
+            <Label x:Name="labelEtat" Content="Etat" HorizontalAlignment="Left" Margin="682,18,0,0" VerticalAlignment="Top"/>
+            <Label x:Name="labelDurée" Content="Durée" HorizontalAlignment="Left" Margin="772,18,0,0" VerticalAlignment="Top"/>
+            <ListBox x:Name="listBoxProjets" HorizontalAlignment="Left" Height="219" Margin="130,49,0,0" VerticalAlignment="Top" Width="100" SelectionChanged="OnSelectItem"/>
+            <TextBox x:Name="textBoxDateDébut" IsReadOnly="True" HorizontalAlignment="Left" Height="23" Margin="408,49,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="102"/>
+            <TextBox x:Name="textBoxDateFin" IsReadOnly="True" HorizontalAlignment="Left" Height="23" Margin="530,49,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="106"/>
+            <TextBox x:Name="textBoxEtat" IsReadOnly="True" HorizontalAlignment="Left" Height="23" Margin="660,49,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="80"/>
+            <TextBox x:Name="textBoxDurée" IsReadOnly="True" HorizontalAlignment="Left" Height="23" Margin="759,49,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="80"/>
+            <Label x:Name="labelDescription" Content="Description" HorizontalAlignment="Left" Margin="292,18,0,0" VerticalAlignment="Top"/>
+            <TextBox x:Name="textBoxDescription" IsReadOnly="True" HorizontalAlignment="Left" Height="83" Margin="266,49,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+            <Button x:Name="buttonAjouter" Content="Ajouter" HorizontalAlignment="Left" Margin="24,49,0,0" VerticalAlignment="Top" Width="76" Click="ClickAjouter"/>
+            <Button x:Name="buttonModifier" Content="Modifier" HorizontalAlignment="Left" Margin="24,79,0,0" VerticalAlignment="Top" Width="76" Click="ClickModifier"/>
+            <Button x:Name="buttonSupprimer" Content="Supprimer" HorizontalAlignment="Left" Margin="24,109,0,0" VerticalAlignment="Top" Width="76" Click="ClickSupprimer"/>
+            <Button x:Name="buttonChrono" Content="Chrono" HorizontalAlignment="Left" Margin="24,141,0,0" VerticalAlignment="Top" Width="76" Click="ClickChrono"/>
+            <Button x:Name="buttonExporter" Content="Exporter" HorizontalAlignment="Left" Margin="24,248,0,0" VerticalAlignment="Top" Width="75" Click="ClickExporter"/>
+
+        </Grid>
+    </Viewbox>
+</Window>

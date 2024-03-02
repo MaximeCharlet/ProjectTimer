@@ -1,0 +1,15 @@
+C:\Users\maxim\OneDrive\Bureau\Project Timer\ProjectTimer\Métier\bin\Debug\Métier.dll
+C:\Users\maxim\OneDrive\Bureau\Project Timer\ProjectTimer\Métier\bin\Debug\Métier.pdb
+C:\Users\maxim\OneDrive\Bureau\Project Timer\ProjectTimer\Métier\obj\Debug\Métier.csproj.CoreCompileInputs.cache
+C:\Users\maxim\OneDrive\Bureau\Project Timer\ProjectTimer\Métier\obj\Debug\Métier.dll
+C:\Users\maxim\OneDrive\Bureau\Project Timer\ProjectTimer\Métier\obj\Debug\Métier.pdb
+C:\Users\maxim\OneDrive\Bureau\Project Timer\ProjectTimer (Test installateur)\Métier\bin\Debug\Métier.dll
+C:\Users\maxim\OneDrive\Bureau\Project Timer\ProjectTimer (Test installateur)\Métier\bin\Debug\Métier.pdb
+C:\Users\maxim\OneDrive\Bureau\Project Timer\ProjectTimer (Test installateur)\Métier\obj\Debug\Métier.csproj.CoreCompileInputs.cache
+C:\Users\maxim\OneDrive\Bureau\Project Timer\ProjectTimer (Test installateur)\Métier\obj\Debug\Métier.dll
+C:\Users\maxim\OneDrive\Bureau\Project Timer\ProjectTimer (Test installateur)\Métier\obj\Debug\Métier.pdb
+C:\Users\maxim\OneDrive\Bureau\Project Timer\ProjectTimer (Version finale 1.1)\Métier\bin\Debug\Métier.dll
+C:\Users\maxim\OneDrive\Bureau\Project Timer\ProjectTimer (Version finale 1.1)\Métier\bin\Debug\Métier.pdb
+C:\Users\maxim\OneDrive\Bureau\Project Timer\ProjectTimer (Version finale 1.1)\Métier\obj\Debug\Métier.csproj.CoreCompileInputs.cache
+C:\Users\maxim\OneDrive\Bureau\Project Timer\ProjectTimer (Version finale 1.1)\Métier\obj\Debug\Métier.dll
+C:\Users\maxim\OneDrive\Bureau\Project Timer\ProjectTimer (Version finale 1.1)\Métier\obj\Debug\Métier.pdb
