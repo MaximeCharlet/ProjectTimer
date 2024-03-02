@@ -8,7 +8,21 @@ Ce projet consiste à la conception puis au développement d’une application p
 
 ## Fonctionnement du logiciel
 
-Une fois le logiciel démarré, on arrive dans la vue principal.
+Une fois le logiciel démarré, on arrive dans la vue principale.
+
 ![Vue principal](https://github.com/MaximeCharlet/ProjectTimer/blob/main/img/MenuPrincipalPT.PNG?raw=true)
+
+On peut voir que l'outil ne contient aucun projet de base. Mais il dispose de plusieurs boutons :
+- Créer un projet via le bouton ajouter
+- Modifier un projet existant
+- Supprimer un projet existant
+- Lancer un chronomètre pour comptabiliser le temps passer sur un projet
+- Exporter les données contenu dans le logiciel (export au format xml)
+
+Lorsque l'on clique sur le bouton ajouter la vue suivante s'affiche :
+
+![Vue ajout projet](https://github.com/MaximeCharlet/ProjectTimer/blob/main/img/AjoutProjet.PNG?raw=true)
+
+Elle nous permet de créer un projet dans l'outil en spécifiant son nom et sa description.
 
 ## Installer ProjectTimer
