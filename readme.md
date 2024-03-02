@@ -21,7 +21,9 @@ On peut voir que l'outil ne contient aucun projet de base. Mais il dispose de pl
 
 Lorsque l'on clique sur le bouton ajouter la vue suivante s'affiche :
 
-![Vue ajout projet](https://github.com/MaximeCharlet/ProjectTimer/blob/main/img/AjoutProjet.PNG?raw=true)
+<p align="center">
+  <img src="https://github.com/MaximeCharlet/ProjectTimer/blob/main/img/AjoutProjet.PNG?raw=true" alt="Vue ajout projet"/>
+</p>
 
 Elle nous permet de créer un projet dans l'outil en spécifiant son nom et sa description.
 
