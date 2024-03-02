@@ -8,5 +8,7 @@ Ce projet consiste à la conception puis au développement d’une application p
 
 ## Fonctionnement du logiciel
 
+Une fois le logiciel démarré, on arrive dans la vue principal.
+![Vue principal](https://github.com/MaximeCharlet/ProjectTimer/blob/main/img/MenuPrincipalPT.PNG?raw=true)
 
 ## Installer ProjectTimer
