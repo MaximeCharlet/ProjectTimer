@@ -49,6 +49,7 @@ La vue permet également d'avoir un retour si le chronomètre tourne ou pas.
 ## Installer ProjectTimer
 
 Pour installer ProjectTimer sur son pc il suffit de suivre le lien suivant : ![Lien](https://github.com/MaximeCharlet/ProjectTimer/releases/tag/V1.0)
+
 De télécharger les fichiers setup.exe et ProjectTimer.msi et de lancer setup.exe
 
 **Attention : fonctionne seulement sur Windows x64.**
