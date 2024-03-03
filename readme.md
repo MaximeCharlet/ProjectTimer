@@ -27,4 +27,28 @@ Lorsque l'on clique sur le bouton ajouter la vue suivante s'affiche :
 
 Elle nous permet de créer un projet dans l'outil en spécifiant son nom et sa description.
 
+Le bouton modifier permet de modifier la description du projet ou son état (le passer de en cours à terminé).
+
+<p align="center">
+  <img src="https://github.com/MaximeCharlet/ProjectTimer/blob/main/img/ModifierProjet.PNG?raw=true" alt="Vue modification projet"/>
+</p>
+
+Le bouton supprimer permet de supprimer le projet sélectionné. Il y a bien sûr une fenêtre de confirmation qui s'affiche.
+
+<p align="center">
+  <img src="https://github.com/MaximeCharlet/ProjectTimer/blob/main/img/SupprimerProjet.PNG?raw=true" alt="Vue modification projet"/>
+</p>
+
+Le bouton chrono permet d'afficher la vue chronomètre et de lancer le chrono pour comptabiliser le temps que l'on passe sur le projet.
+La vue permet également d'avoir un retour si le chronomètre tourne ou pas.
+
+<p align="center">
+  <img src="https://github.com/MaximeCharlet/ProjectTimer/blob/main/img/Chronometre.PNG?raw=true" alt="Vue chronomètre"/>
+</p>
+
 ## Installer ProjectTimer
+
+Pour installer ProjectTimer sur son pc il suffit de suivre le lien suivant : ![Lien](https://github.com/MaximeCharlet/ProjectTimer/releases/tag/V1.0)
+De télécharger les fichiers setup.exe et ProjectTimer.msi et de lancer setup.exe
+
+**Attention : fonctionne seulement sur Windows x64.**
